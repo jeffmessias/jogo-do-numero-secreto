@@ -9,7 +9,7 @@
   <p>
     <strong>HTML</strong> • 
     <strong>CSS</strong> • 
-    <strong>JavaScript</strong>
+    <strong>JavaScript</strong>• 
   </p>
 
   <br>
